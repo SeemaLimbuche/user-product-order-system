@@ -1,25 +1,26 @@
 # user-product-order-system
-This is a mini project built using Python and MySQL, where users can sign up, log in, view products, and place orders.
+A simple and functional User–Product–Order Management System built using Python and MySQL.
+This project demonstrates how to perform user authentication, product browsing, and order placement using Python classes and SQL database operations.
 
 ## It demonstrates the use of:
-Classes & object-oriented programming
-MySQL database connection
-CRUD operations
-Exception handling
-Basic authentication logic
+- Classes & object-oriented programming
+- MySQL database connection
+- CRUD operations
+- Exception handling
+- Basic authentication logic
 
 ## Features
-User Signup
-User Login
-View Product List
-Place Orders
-View User Orders
-SQL database integration
+- User Signup
+- User Login
+- View Product List
+- Place Orders
+- View User Orders
+- SQL database integration
 
 ## Tech Stack
-Python
-MySQL Connector
-MySQL Database
+- Python
+- MySQL Connector
+- MySQL Database
 
 # Database Tables Used
 # user1
